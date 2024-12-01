@@ -19,13 +19,11 @@ Currently, two official plugins are available:
 
    run command 
 
-   for npm
+   for npm and node
 
         npm -v
-    
-    node
    
-         node -v
+        node -v
 
    open the project folder in vs code or any code editor
 
