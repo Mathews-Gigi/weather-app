@@ -17,16 +17,27 @@ Currently, two official plugins are available:
 
    to check 
 
-   run command npm -v and node -v
+   run command 
+
+   for npm
+
+        npm -v
+    
+    node
+   
+         node -v
 
    open the project folder in vs code or any code editor
 
    run the commad to install dependency
 
-   --- npm i
+
+        npm i
    
-   --- to start app
+        to start app
 
         npm run dev
+
+
 
     
